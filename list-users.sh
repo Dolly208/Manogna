@@ -4,7 +4,7 @@
 # Author: Manogna Ulligadda
 # About: To list Users with read access to github repository
 #Input: username, token, organization, repository_name
-# Owner: Owner of the gitHub
+# Owner: Manogna Ulligadda
 ##########################################################
 
 # GitHub API URL
